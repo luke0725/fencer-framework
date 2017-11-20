@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//doc/db.sql=UTF-8
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/webapp/WEB-INF/views/modules/job/schedule.html=UTF-8
+encoding//src/main/webapp/WEB-INF/views/modules/oss/oss.html=UTF-8
+encoding//src/main/webapp/WEB-INF/views/modules/sys/role.html=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
+separateDerivedEncodings=true
